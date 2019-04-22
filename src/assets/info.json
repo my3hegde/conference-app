@@ -6,7 +6,7 @@
     "latitude": 43.7947886,
     "longitude": -79.2339258
   },
-  "banner": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png",
+  "banner": "https://raw.githubusercontent.com/shruthikakwe/conference-app/tree/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
   "description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
   "speakers": [
@@ -16,7 +16,7 @@
       "twitter": "esse",
       "github": "occaecat",
       "subtitle": "Artist at AIR",
-      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+      "avatar": "http://dallas.navika.org/wp-content/uploads/2017/06/Ratnamala-Prakash-458x458.png"
     }
   ],
   "events": [
