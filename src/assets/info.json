@@ -2,9 +2,9 @@
   "name": "HAA Convention 2019",
   "location": {
     "city":"Toronto, ON",
-    "address": "Chinese Cultural Centre Toronto",
-    "latitude": 43.7951514,
-    "longitude": -79.236136
+    "address": "Chinese Cultural Centre Of Greater Toronto",
+    "latitude": 43.7947886,
+    "longitude": -79.2339258
   },
   "banner": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
