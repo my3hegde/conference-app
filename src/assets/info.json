@@ -3,8 +3,8 @@
   "location": {
     "city":"Toronto, ON",
     "address": "Chinese Cultural Centre Of Greater Toronto",
-    "latitude": 43.7947886,
-    "longitude": -79.2339258
+    "latitude": 43.7947,
+    "longitude": -79.233
   },
   "banner": "https://raw.githubusercontent.com/shruthikakwe/conference-app/tree/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
