@@ -9,12 +9,10 @@
   "banner": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
   "description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
-  "speakers": [
+  "artists": [
     {
-      "name": "Sugama Sangeeta",
-      "bio": "Invited artists\r\n",
-      "twitter": "esse",
-      "github": "occaecat",
+      "name": "Ratnamala Prakash",
+      "bio": "Bio\r\n",
       "subtitle": "Artist at AIR",
       "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
     }
@@ -31,13 +29,13 @@
       "title": "9:15 am",
       "data": [
         { "name" : "Youth Symphony", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"Vinayak Hegde",
+          "artist":"Vinayak Hegde",
           "description": "Symphony by youth of the Havyaka community"},
         { "name" : "Havyaka Culture and Tradition", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"Param Bhat",
+          "artist":"Param Bhat",
           "description": "blurb"},
         { "name" : "HAA 2019 Agenda", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"Raghu Kattinakere",
+          "artist":"Raghu Kattinakere",
           "description": "blurb"}
       ]
     }
