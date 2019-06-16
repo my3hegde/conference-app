@@ -1,11 +1,11 @@
 import AboutScreen from './AboutScreen';
 import LocationScreen from './LocationScreen';
-import SpeakersScreen from './SpeakersScreen';
+import ArtistsScreen from './ArtistsScreen';
 import ScheduleScreen from './ScheduleScreen';
 
 export {
   AboutScreen,
   LocationScreen,
-  SpeakersScreen,
+  ArtistsScreen,
   ScheduleScreen
 };

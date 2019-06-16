@@ -74,10 +74,10 @@ class ScheduleView extends Component {
                   <Text style={{fontWeight:'700'}}>{this.state.event.time} {this.state.event.place}</Text>
                   <Text style={{textAlign: 'justify', marginTop: 10}}>{this.state.event.description}</Text>
                   {
-                    this.state.event.speaker?
+                    this.state.event.artist?
                       <View style={{flexDirection:'row', marginTop: 10}}>
-                        <Text style={{fontWeight:'700'}}>Speaker: </Text>
-                        <Text>{this.state.event.speaker}</Text>
+                        <Text style={{fontWeight:'700'}}>Artist: </Text>
+                        <Text>{this.state.event.artist}</Text>
                       </View>:null
                   }
                   <Button

@@ -1,7 +1,7 @@
 import React from 'react';
 import { TabNavigator, StackNavigator, TabBarBottom } from 'react-navigation';
 import Icon from 'react-native-vector-icons/Feather';
-import { LocationScreen, AboutScreen, SpeakersScreen, ScheduleScreen }  from '../screens';
+import { LocationScreen, AboutScreen, ArtistsScreen, ScheduleScreen }  from '../screens';
 import { Header } from '../components';
 import config from '../config';
 
@@ -13,9 +13,9 @@ export default StackNavigator({
           name: 'Schedule',
           screen: ScheduleScreen,
         },
-        Speakers: {
-          name: 'Speakers',
-          screen: SpeakersScreen,
+        Artists: {
+          name: 'Artists',
+          screen: ArtistsScreen,
         },
         Map: {
           name: 'Map',
@@ -44,7 +44,7 @@ export default StackNavigator({
             let iconName;
             if (routeName === 'Schedule') {
               iconName = 'calendar';
-            } else if (routeName === 'Speakers') {
+            } else if (routeName === 'Artists') {
               iconName = 'users';
             } else if (routeName === 'Map') {
               iconName = 'map';

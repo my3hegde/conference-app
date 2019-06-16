@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import SpeakersView from './SpeakersView';
+import ArtistsView from './ArtistsView';
 import { getInfo } from '../../reducers/ConferenceReducer/actions';
 
 const mapStateToProps = state => ({
@@ -12,4 +12,4 @@ const mapDispatchToProps = dispatch => ({
   }
 });
 
-export default connect(mapStateToProps, mapDispatchToProps)(SpeakersView);
+export default connect(mapStateToProps, mapDispatchToProps)(ArtistsView);
