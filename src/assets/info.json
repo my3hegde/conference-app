@@ -2,41 +2,175 @@
   "name": "HAA Convention 2019",
   "location": {
     "city":"Toronto, ON",
-    "address": "Chinese Cultural Centre Toronto",
-    "latitude": 43.7948,
-    "longitude": 79.2335
+    "address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
+    "latitude": 43.794994,
+    "longitude": -79.233486
   },
-  "banner": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png",
+  "banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
   "date": "July 5th-6th, 2019",
   "description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
   "artists": [
     {
-      "name": "Ratnamala Prakash",
-      "bio": "Bio\r\n",
-      "subtitle": "Artist at AIR",
-      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+      "name": "Smt. Ratnamala Prakash",
+      "bio": "\n Ratnamala is very popular in Karnataka for her soulful singing. Ratnamala has been selected for the prestigious Raashtriya Sangeetha Nataka Academy Award in 2017. She is popularly known as Haadu hakki. Popularly known as \"Haadu Hakki\"\r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/ratna.jpg"
+    },
+    {
+      "name": "Pancham Halibandi",
+      "bio": "\n Pancham was born in the family of musicians had an added advantage in 57father a renowned light music singer, and had initial training under him &developed his interest towards Folk, Light Music & Theatre at the age of three Enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/pancham.jpg"
+    },
+     {
+      "name": "Ananth Hegde Dantalike",
+      "bio": "\n Mr. Anatha Hegde is the singer or bagavatha of the troupe. He is awarded for his talent by National Sangeetha Nataka Academy of India, which is a rare achievement for an artist of such a young age. He has been trained by legends of Yakshagana such as Keremane Shambhu hegde and Vidvan Ganapathi Bhat. He is working as a Bhaagavata teacher at the Yakshagana school and has been serving as a professional Bhaagavata for \" Idagunji Mahaganapathy Yakshagana Kendra-Keremane \" a national award winning Yakshagana troupe in Karnataka. \r\n",
+      "subtitle": "Bhagavataru",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/dantalige.jpg"
+    },
+    {
+      "name": "Shankar Bhagawat Yellapur",
+      "bio": "\n Known as a legend of Maddale (mridangam), Shankar Bhagavatha is the most senior member of the visiting troupe and plays Maddale. Known for his imposing presence on the stage and lightning speed hands and fingers, Shankara Bhagavatha is one of very few maddale players who can bring out the best in both singers and dancers. He has a unique ability to express all nine emotions in maddale. He is the most experienced maddale player of our times and is the best in the field. He has won several accolades and has been recently awarded by Yakshagana Academy, Government of Karnataka.\r\n",
+      "subtitle": "Bhagavataru",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/shankar1.jpg"
+    },
+    {
+      "name": "Pandit Gopalakrishna Hegde",
+      "bio": "\n TBD\r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/gopal.jpg"
+    },
+     {
+      "name": "Anantha Padmanabha Pathak",
+      "bio": "\n Known as Yakshaguru, AP Phatak is one of the highly travelled Yakshagana artists. He has visited 16 countries in the last 20 years (including UK, USA, Brazil etc) for Yakshagana performance.  He was trained in Yakshagana Kendra Udupi in all aspects of Yakshagana. He has won several accolades from several institutions including from Bharatheya Vidya Bhavana (UK), Indian embassy in Brazil and University of California Berkeley. He was part of Yakshagana troupe that toured the world under the direction of Shri Sivaram Karanth, a Jnanapeetha Award winner and noted Yakshagana researcher. He has trained hundred of students in Yakshagana singing and instruments. He is now working as a Yakshagana teacher in Bangalore. He will be playing Chande in the current tour. \r\n",
+      "subtitle": "Chande",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/patak.jpg"
+    },
+     {
+      "name": "Ganapati Bhat Thotimane",
+      "bio": "\n One of the most prominent and famous dancer/actor of Yakshagana, Totimane Ganapathy Hegde has capability to enthrall audience in whatever rolls he enacts. Known for his graceful dance and facial expression, he is known for his role of Krishna, Rama as well as Rakkasa roles. He is in very high demand and is booked for several months in advance for his performances. Winner of several awards and fellowship by Yakshagana academy, he has in depth knowledge of portrayal of characters within the framework of Yakshagana. He was a part of several professional troupes from childhood and is a main artist in \"Poornachandra Yakshagana Mandali\" \r\n",
+      "subtitle": "Yakshagana Artist",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/toti.jpg"
+    },
+     {
+      "name": "Sanjaya Beleyuru",
+      "bio": "\n Trained by legendary Yakshagana Guru \"Hosthota Manjunatha Bhagavatha\" in Yakshagana dancing, makeup and acting, Sanjaya Beleyuru is known as one of the most promising young artist in Yakshagana. With his imposing physique and wide eyes, he is known for roles of Khalanayaka (villain). He is a part of a 300-year-old professional Yakshagana troupe in his own village. The effects he brings out using shades in facial makeup makes his roles very special and sometimes scary. He is also a costume maker and is in high demand for the Yakshagana costumes he designs and makes. He also runs a Yakshagana training school in his village, Beleyuru. \r\n",
+      "subtitle": "Yakshagana Artist",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/sanjaya.jpg"
+    },
+     {
+      "name": "Radha Desai",
+      "bio": "\n Radha Desai\r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/radha.jpg"
     }
   ],
   "events": [
     {
-      "title": "8:00 am",
+      "title": "Thursday, 4th July 2019",
       "data": [
-        { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
-        { "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
+        { "name" : "Youth Camp", "time": "8:00 am - 5th July 2019 11:00 am", "place": "Sringeri Community Center", "description":"For pre-registered participants only, \n Address - 80 Brydon Drive, Etobicoke, Toronto", "color":"#33E4F0"},
+        { "name" : "Stage Practice", "time": "5:00 pm - 9:00 pm", "place": "\n Main Stage, Chinese Cultural Center","description": "Only for pre-requested programs. Please be on time.","color":"#33E4F0"}
       ]
     },
     {
-      "title": "9:15 am",
+      "title": "Thursday, 5th July 2019",
       "data": [
-        { "name" : "Youth Symphony", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-          "artist":"Vinayak Hegde",
-          "description": "Symphony by youth of the Havyaka community"},
-        { "name" : "Havyaka Culture and Tradition", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-          "artist":"Param Bhat",
-          "description": "blurb"},
-        { "name" : "HAA 2019 Agenda", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-          "artist":"Raghu Kattinakere",
-          "description": "blurb"}
+        { "name" : "HAA Picnic", "time": "9:00 am - 1:00 pm", "place": "Thomson Memorial Park","description":"Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ", "color":"#3392F0"},
+        { "name" : "Naavu Havyakaru - Meravnige", "time": "4:00 pm - 4:30 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#3392F0", 
+          "description": "Assemble at multi purpose hall, From Multi-purpose room or from outside until the stage."},
+        { "name" : "Inauguration", "time": "4:30 pm - 5:25 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#3392F0", 
+          "description": " Lighting of the lamp \n Vedaghosha \n Pushpanjali \n National Anthems \n Naavu Havyakaru \n Swagatha Nrithya \n President's Welcome \n Souvenir Release"},
+        { "name" : "Bharathanatya", "time": "5:25 pm - 5:32 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artist - Priya Hegde"},
+        { "name" : "Group Song", "time": "5:32 pm - 5:47 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - \n Vijaya Bhat \n Murali Kaje \n Sahana Kaje \n Pratibha Kote \n Keshav Kote \n Shaila Tamragauri \n Aparna Adkoli \n Lakshmi Bhat \n Leela Rao \n Sujatha Adkoli"},
+        { "name" : "Group Dance", "time": "5:48 pm - 5:55 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - \n Arati Bhagawat \n Soumya Bhat \n Manasa Hegde \n Kanchana Padyana \n Sumana Bhat \n Sumedha Hegde \n Maya Bhagawat \n Sanvi Bhat"},
+        { "name" : "Semi Classical Dance", "time": "5:55 pm - 6:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - \n Ananya Bhat \n Jyothi Ukkinadka"},
+        { "name" : "Group Dance", "time": "6:00 pm - 6:10 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - \n Usha Kuloor \n Jyothi Ukkinadka \n Kanchana Hegde \n Jayashree Kanchana Balike"},
+       { "name" : "Kannada Song", "time": "6:10 pm - 6:15 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artist - Meghna"},
+       { "name" : "Sangeeta Rasa Sanje", "time": "6:25 pm - 8:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#FFA07A", 
+          "description": "An evening with light music \n Singers: Ratnamala Prakash, Pancham Halibandi \n Instrument Accompaniment - \n Tabla - Pt Gopalakrishna Hegde \n Keyboard - Krishna Murthy \n Drum Pad - Oomen Thomas \n Bass Guitar - Jacob Thomas"},
+       { "name" : "Havyaka Santharpane - Dinner", "time": "8:00 pm - 9:00 pm", "place": "Chinese Cultural Center-Dining Hall", "color":"#BCDB7F"},
+       { "name" : "Karthaveeryarjuna Yakshagana", "time": "9:00 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#D03718", 
+          "description": " Indian and Local Artists \n Shankara Bhagavatha, Yallapura \n Ananth Hegde, Dantalige \n Ganapati Hegde, Thotimane \n Sanjay Beleyooru \n Yakshamitra Toronto members"}
+      ]
+    },
+     {
+      "title": "Saturday, 6th July 2019",
+      "data": [
+         { "name" : "Breakfast", "time": "7:00 am - 8:00 am", "place": "Chinese Cultural Center-Dining Hall", "color":"#BCDB7F"},
+         { "name" : "Gayathri Homa", "time": "7:30 am - 8:45 am", "place": "Chinese Cultural Center", "color":"#F05233"},
+         { "name" : "Bhagavad Gita Chanting ", "time": "8:50 am - 9:00 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Toronto Kids"},
+         { "name" : "Hindustani Vocal", "time": "9:00 am - 9:14 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Pranav & Ananya"},
+         { "name" : "Bharathanatya", "time": "9:15 am - 9:21 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Samit Pandit"},
+         { "name" : "Dance", "time": "9:22 am - 9:27 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Shreya Hegde & Disha Hegde"},
+         { "name" : "Karnatic Vocal", "time": "9:34 am - 9:41 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Sakhyam Kaje"},
+         { "name" : "Bharathanatya", "time": "9:42 am - 9:49 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Aashika Bhat"},
+          { "name" : " M&M Sandarshana, Kids Skit ", "time": "9:50 am - 10:00 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Directed by Jayashree Kanchana Balike \n Artists - \n Praneli Balike \n Rohil Balike \n Amogha Bhat \n Adeesha Bhat \n Avani Hegde \n Samvith Mahesh \n Soham Padyana"},
+        { "name" : "Bhagavadgeethe Vachana", "time": "10:05 am - 10:35 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Radha Desai"},
+         { "name" : "Dance", "time": "10:40 am - 10:45 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Shreyas Hegde"},
+        { "name" : "Vocal", "time": "10:46 am - 10:51 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Gopal Bhat"},
+        { "name" : "Group Dance", "time": "10:52 am - 11:10 am", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Artists - Kanchana Hegde & Team"},
+        { "name" : "Plenary Session", "time": "11:15 am - 12:15 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233", 
+          "description": "Plenary Session Led by Param Bhat, HAA President"},
+        { "name" : "Lunch", "time": "12:15 pm - 1:00 pm", "place": "Chinese Cultural Center-Dining Hall", "color":"#F05233"},
+        { "name" : "Youth Symphony", "time": "1:30 pm - 2:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Vinayak Hegde & Team"},
+        { "name" : "Havyaka Youth Got Talent", "time": "3:00 pm - 3:15 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Grand final, 2 finalists from Junior Star and Senior Star category"},
+         { "name" : "Bharathanatya", "time": "3:20 pm - 3:27 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Aadya Hebbar"},
+        { "name" : "Kathak Dance", "time": "3:28 pm - 3:35 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Keerthana Bhat"},
+        { "name" : "Violin Concert", "time": "3:36 pm - 3:43 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - \n Bhakthi Hegde\n Aashika Bhat\n Ananya Hegde"},
+        { "name" : "Group Song", "time": "3:44 pm - 3:50 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Anjali Sharma & team, Detroit"},
+        { "name" : "Jugalbandi", "time": "3:52 pm - 4:22 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - \n Reshma Bhat\n Amrita Rao"},
+        { "name" : "Bollywood Dance", "time": "4:22 pm - 4:30 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Samita Hegde"},
+         { "name" : "Group Dance", "time": "4:31 pm - 4:36 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Sumana & Team"},
+        { "name" : "Bharathanatya", "time": "4:36 pm - 4:41 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Anish"},
+        { "name" : "Group Dance", "time": "4:42 pm - 4:47 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Chitra Kraki & Team, Boston"}, 
+        { "name" : "Havitaranga", "time": "5:21 pm - 5:40 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Toronto Team"}, 
+         { "name" : "HAA California", "time": "5:41 pm - 5:50 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - California Team"}, 
+         { "name" : "Farewell", "time": "5:50 pm - 5:55 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Toronto Team"}, 
+        { "name" : "Laya-Gaana-Laya", "time": "6:00 pm - 7:30 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Artists - Laya Gana Lasya- Hindustani and Yakshagana Jugalbandi- Direction by Pandit Gopala Krishna Hegde"}, 
+        { "name" : "Banquett Session", "time": "7:30 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233",
+        "description": "Reception \n Entertainment \n Vote of Thanks \n Dinner \n DJ "},
+         { "name" : "DJ", "time": "10:00 pm - 11:00 pm", "place": "Chinese Cultural Center-Auditorium", "color":"#F05233"}
+        
+      ]
+    },
+     {
+      "title": "Sunday, 7th July 2019",
+      "data": [
+        { "name" : "HAA General Body Meeting", "time": "8:00 am - 10:00 am", "place": "Sringeri Community Center", "description":"HAA General Body Meeting \n Breakfast \n GBM Proceedings", "color":"#33E4F0"},
+        { "name" : "Toronto Sight Seeing Tour", "time": "10:30 pm - 6:00 pm", "place": "Toronto Site Seeing Tour, Optional Cost approx. $50/person Pre-sign up required","color":"#33E4F0"}
       ]
     }
   ]

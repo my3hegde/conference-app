@@ -51,13 +51,13 @@ class AboutView extends Component {
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
             <Image
-              source={{uri: 'https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png'}}
+              source={{uri: 'https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa logo.jpg'}}
               style={styles.avatar}
             />
             <View>
               <Text style={styles.name}>Contact :</Text>
               <Text>Parameshwar Bhat</Text>
-              <Text style={styles.link}>president@havyak.org</Text>
+              <Text style={styles.link}>haa2019president@gmail.com</Text>
             </View>
           </View>
         </View>

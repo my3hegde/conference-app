@@ -40,8 +40,8 @@ class LocationView extends Component {
       <MapView
         style={{ flex: 1 }}
         region={{
-          latitude: location.latitude || 6.2518400,
-          longitude: location.longitude || -75.5635900,
+          latitude: location.latitude || 43.794994,
+          longitude: location.longitude || -79.233486,
           latitudeDelta: 0.015,
           longitudeDelta: 0.015,
         }} loadingEnabled={true}
