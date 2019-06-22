@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { View, Text } from 'react-native';
+import { ScrollView, View, Text } from 'react-native';
 import Icon from 'react-native-vector-icons/Feather';
 import { ListItem, Card } from 'react-native-elements';
 import Modal from 'react-native-modal';
@@ -37,7 +37,7 @@ class ArtistsView extends Component {
 
   render() {
     return (
-      <View>
+      <ScrollView>
         {
           this.state.conference.artists.map((l, i) => (
             <ListItem
@@ -70,7 +70,7 @@ class ArtistsView extends Component {
             </Card>
           </Modal>
         }
-      </View>
+      </ScrollView>
     );
   }
 
