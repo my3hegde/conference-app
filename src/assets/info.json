@@ -6,63 +6,63 @@
     "latitude": 43.794994,
     "longitude": -79.233486
   },
-  "banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa logo.jpg",
+  "banner": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa%20logo.jpg",
   "date": "July 5th-6th, 2019",
-  "description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
+  "description": "18th Biennial convention of HAA will be held in Toronto, Canada during July 5th & 6th (Independence Day weekend) of 2019.",
   "artists": [
     {
       "name": "Smt. Ratnamala Prakash",
-      "bio": "\n Ratnamala is very popular in Karnataka for her soulful singing. Ratnamala has been selected for the prestigious Raashtriya Sangeetha Nataka Academy Award in 2017. She is popularly known as Haadu hakki. Popularly known as \"Haadu Hakki\"\r\n",
+      "bio": "\n Ratnamala is very popular in Karnataka for her soulful singing. She has been selected for the prestigious Raashtriya Sangeetha Nataka Academy Award in 2017. She is popularly known as Haadu Hakki. \r\n",
       "subtitle": "Singer",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/ratna.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/ratna.jpg"
     },
     {
       "name": "Pancham Halibandi",
-      "bio": "\n Pancham was born in the family of musicians had an added advantage in 57father a renowned light music singer, and had initial training under him &developed his interest towards Folk, Light Music & Theatre at the age of three Enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
+      "bio": "\n Pancham was born in a family of musicians, and had initial training under his father, renowned light music singer Yashwanth Halibandi. He developed an interest towards Folk, Light Music & Theatre at the age of three. He enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
       "subtitle": "Singer",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/pancham.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/sr/assets/pancham.jpg"
     },
      {
       "name": "Ananth Hegde Dantalike",
-      "bio": "\n Mr. Anatha Hegde is the singer or bagavatha of the troupe. He is awarded for his talent by National Sangeetha Nataka Academy of India, which is a rare achievement for an artist of such a young age. He has been trained by legends of Yakshagana such as Keremane Shambhu hegde and Vidvan Ganapathi Bhat. He is working as a Bhaagavata teacher at the Yakshagana school and has been serving as a professional Bhaagavata for \" Idagunji Mahaganapathy Yakshagana Kendra-Keremane \" a national award winning Yakshagana troupe in Karnataka. \r\n",
+      "bio": "\n Anantha Hegde is the singer or bagavatha of the troupe. He was awarded for his talent by National Sangeetha Nataka Academy of India, which is a rare achievement for an artist of such a young age. He has been trained by legends of Yakshagana such as Keremane Shambhu hegde and Vidvan Ganapathi Bhat. He is working as a Bhaagavata teacher at the Yakshagana school and has been serving as a professional Bhaagavata for \" Idagunji Mahaganapathy Yakshagana Kendra-Keremane \" a national award winning Yakshagana troupe in Karnataka. \r\n",
       "subtitle": "Bhagavataru",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/dantalige.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/dantalige.jpg"
     },
     {
       "name": "Shankar Bhagawat Yellapur",
       "bio": "\n Known as a legend of Maddale (mridangam), Shankar Bhagavatha is the most senior member of the visiting troupe and plays Maddale. Known for his imposing presence on the stage and lightning speed hands and fingers, Shankara Bhagavatha is one of very few maddale players who can bring out the best in both singers and dancers. He has a unique ability to express all nine emotions in maddale. He is the most experienced maddale player of our times and is the best in the field. He has won several accolades and has been recently awarded by Yakshagana Academy, Government of Karnataka.\r\n",
       "subtitle": "Bhagavataru",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/shankar1.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/shankar1.jpg"
     },
     {
       "name": "Pandit Gopalakrishna Hegde",
       "bio": "\n TBD\r\n",
       "subtitle": "Singer",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/gopal.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/gopal.jpg"
     },
      {
       "name": "Anantha Padmanabha Pathak",
-      "bio": "\n Known as Yakshaguru, AP Phatak is one of the highly travelled Yakshagana artists. He has visited 16 countries in the last 20 years (including UK, USA, Brazil etc) for Yakshagana performance.  He was trained in Yakshagana Kendra Udupi in all aspects of Yakshagana. He has won several accolades from several institutions including from Bharatheya Vidya Bhavana (UK), Indian embassy in Brazil and University of California Berkeley. He was part of Yakshagana troupe that toured the world under the direction of Shri Sivaram Karanth, a Jnanapeetha Award winner and noted Yakshagana researcher. He has trained hundred of students in Yakshagana singing and instruments. He is now working as a Yakshagana teacher in Bangalore. He will be playing Chande in the current tour. \r\n",
+      "bio": "\n Known as Yakshaguru, AP Phatak is one of the highly travelled Yakshagana artists. He has visited 16 countries in the last 20 years (including UK, USA, Brazil etc) for Yakshagana performances. He was trained in Yakshagana Kendra Udupi in all aspects of Yakshagana. He has won several accolades from several institutions, including from Bharatheya Vidya Bhavana (UK), Indian embassy in Brazil and University of California Berkeley. He was a part of Yakshagana troupe that toured the world under the direction of Shri Sivaram Karanth, a Jnanapeetha Award winner and noted Yakshagana researcher. He has trained hundred of students in Yakshagana singing and instruments. He is now working as a Yakshagana teacher in Bangalore. He will be playing Chande in the current tour. \r\n",
       "subtitle": "Chande",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/patak.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/patak.jpg"
     },
      {
       "name": "Ganapati Bhat Thotimane",
-      "bio": "\n One of the most prominent and famous dancer/actor of Yakshagana, Totimane Ganapathy Hegde has capability to enthrall audience in whatever rolls he enacts. Known for his graceful dance and facial expression, he is known for his role of Krishna, Rama as well as Rakkasa roles. He is in very high demand and is booked for several months in advance for his performances. Winner of several awards and fellowship by Yakshagana academy, he has in depth knowledge of portrayal of characters within the framework of Yakshagana. He was a part of several professional troupes from childhood and is a main artist in \"Poornachandra Yakshagana Mandali\" \r\n",
+      "bio": "\n One of the most prominent and famous of dancers/actors of Yakshagana, Totimane Ganapathy Hegde has the capability to enthrall the audience in whatever roles he enacts. His graceful movements and wonderful facial expressions, make him particularly well-known for his role of Krishna, Rama as well as Rakshasa roles. He is in very high demand and is booked for several months in advance for his performances. Winner of several awards and fellowship by Yakshagana academy, he has in depth knowledge of portrayal of characters within the framework of Yakshagana. He was a part of several professional troupes from childhood and is a main artist in \"Poornachandra Yakshagana Mandali\" \r\n",
       "subtitle": "Yakshagana Artist",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/toti.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/toti.jpg"
     },
      {
       "name": "Sanjaya Beleyuru",
-      "bio": "\n Trained by legendary Yakshagana Guru \"Hosthota Manjunatha Bhagavatha\" in Yakshagana dancing, makeup and acting, Sanjaya Beleyuru is known as one of the most promising young artist in Yakshagana. With his imposing physique and wide eyes, he is known for roles of Khalanayaka (villain). He is a part of a 300-year-old professional Yakshagana troupe in his own village. The effects he brings out using shades in facial makeup makes his roles very special and sometimes scary. He is also a costume maker and is in high demand for the Yakshagana costumes he designs and makes. He also runs a Yakshagana training school in his village, Beleyuru. \r\n",
+      "bio": "\n Trained by legendary Yakshagana Guru \"Hosthota Manjunatha Bhagavatha\" in Yakshagana dancing, makeup and acting, Sanjaya Beleyuru is known as one of the most promising young artists in Yakshagana. With his imposing physique and wide eyes, he is known for roles of Khalanayaka (villain). He is a part of a 300-year-old professional Yakshagana troupe in his own village. The effects he brings out using shades in facial makeup makes his roles very special and sometimes scary. He is also a costume maker and is in high demand for the Yakshagana costumes he designs and makes. He also runs a Yakshagana training school in his village, Beleyuru.\r\n",
       "subtitle": "Yakshagana Artist",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/sanjaya.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/sanjaya.jpg"
     },
      {
       "name": "Radha Desai",
       "bio": "\n Radha Desai\r\n",
       "subtitle": "Singer",
-      "avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/radha.jpg"
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/radha.jpg"
     }
   ],
   "events": [
