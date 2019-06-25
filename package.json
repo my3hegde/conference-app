@@ -36,10 +36,11 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
-    "expo": "^32.0.0",
-    "react": "16.5.0",
+    "expo": "^32.0.6",
+    "expo-cli": "^2.20.2",
     "prop-types": "^15.6.1",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-native-elements": "^0.19.1",
     "react-native-modal": "^5.4.0",
     "react-native-side-menu": "^1.1.3",
