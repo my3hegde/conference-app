@@ -1,93 +1,561 @@
 {
-  "name": "HAA Convention 2019",
-  "location": {
-    "city":"Toronto, ON",
-    "address": "Chinese Cultural Centre Of Greater Toronto",
-    "latitude": 43.7951514,
-    "longitude": -79.236136
-  },
-  "banner": "https://raw.githubusercontent.com/shruthikakwe/conference-app/tree/master/src/assets/haa.png",
-  "date": "July 5th-6th, 2019",
-  "description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
- "speakers": [
+	"name": "Milanotsava 2019",
+	"location": {
+		"city": "Toronto, ON",
+		"address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
+		"latitude": 43.794994,
+		"longitude": -79.233486
+	},
+	"banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
+	"date": "July 5th-6th, 2019",
+	"description": "18th Biennial convention of HAA will be held in Toronto Canada during July 5th & 6th (Independence Day weekend) of 2019.",
+  "artists": [
     {
-      "name": "Dawn Schneider",
-      "bio": "Nisi eiusmod Lorem tempor nulla cillum ullamco. Tempor cupidatat ad duis incididunt ut nulla ea laborum labore occaecat laborum. Proident nostrud ea mollit esse veniam culpa do minim eiusmod. Deserunt pariatur proident excepteur dolor.\r\n",
-      "twitter": "esse",
-      "github": "occaecat",
-      "subtitle": "Mobile Developer at Buzzopia",
-      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/78779/profile/profile-512.jpg?6"
+      "name": "Smt. Ratnamala Prakash",
+      "bio": "\n Ratnamala Prakash is very well-known in Karnataka for her soulful singing and ability to hit a wide range of notes. She has sung a variety of songs for the Kannada film industry, and was awarded the prestigious Raashtriya Sangeetha Nataka Academy Award in 2017. She is popularly known as Haadu Hakki. \r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/ratna.jpg"
     },
     {
-      "name": "Bernard Marquez",
-      "bio": "Cillum pariatur ex consectetur enim culpa laboris officia nisi. Nulla quis exercitation non amet incididunt nulla mollit pariatur reprehenderit exercitation irure. Non ea exercitation sit velit mollit est amet laboris veniam do. Ut officia ad labore adipisicing tempor Lorem nisi irure tempor mollit ut quis. Et occaecat consectetur ipsum consequat. Aliquip reprehenderit ea minim incididunt anim irure anim nisi nisi laboris anim. Eu commodo minim ad voluptate cillum deserunt ipsum tempor mollit velit reprehenderit exercitation.\r\n",
-      "twitter": "proident",
-      "github": "amet",
-      "subtitle": "Freelance at Eschoir",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7E8qd1Q4h8SKOgqNfwS5cBs6BkQ2EIZRXxiR86lPwwvB559Lbqg"
+      "name": "Pancham Halibandi",
+      "bio": "\n Pancham Halibandi was born in a family of musicians, and had initial training under his father, renowned light music singer Yashwanth Halibandi. He developed an interest in folk, light music & theatre at the age of three. He enjoys the distinction of being a front runner amongst the talented bunch of light music brigade.\r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/pancham.jpg"
+    },
+     {
+      "name": "Ananth Hegde Dantalige",
+      "bio": "\n Anantha Hegde is the singer or bagavatha of the troupe. He was awarded for his talent by National Sangeetha Nataka Academy of India, which is a rare achievement for an artist of such a young age. He has been trained by legends of Yakshagana such as Keremane Shambhu hegde and Vidvan Ganapathi Bhat. He is working as a Bhaagavata teacher at the Yakshagana school and has been serving as a professional Bhaagavata for \" Idagunji Mahaganapathy Yakshagana Kendra-Keremane \" a national award winning Yakshagana troupe in Karnataka. \r\n",
+      "subtitle": "Bhagavataru",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/dantalige.jpg"
     },
     {
-      "name": "Eileen Quinn",
-      "bio": "Eiusmod ex et ad exercitation amet ad proident. Consectetur dolore fugiat amet cupidatat aute elit ea veniam sit excepteur irure. Nostrud deserunt aliquip esse enim consequat non reprehenderit consequat anim duis ipsum in. Eu adipisicing aliquip culpa laboris velit ipsum culpa quis aute. Veniam ad in fugiat proident eu officia consectetur sit.\r\n",
-      "twitter": "excepteur",
-      "github": "eiusmod",
-      "subtitle": "CEO at Tropolis",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SvMXT2J0U7oCXnO5nSdd5n5lKAWnSthZUzOCHs6phpNqNwDh"
+      "name": "Shankar Bhagawat Yellapur",
+      "bio": "\n Known as a legend of Maddale (mridangam), Shankar Bhagavatha is the most senior member of the visiting troupe and plays Maddale. Known for his imposing presence on the stage and lightning speed hands and fingers, Shankara Bhagavatha is one of very few maddale players who can bring out the best in both singers and dancers. He has a unique ability to express all nine emotions in maddale. He is the most experienced maddale player of our times and is the best in the field. He has won several accolades and has been recently awarded by Yakshagana Academy, Government of Karnataka.\r\n",
+      "subtitle": "Bhagavataru",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/shankar1.jpg"
     },
     {
-      "name": "Wiggins Lopez",
-      "bio": "Nostrud reprehenderit labore in ex do amet culpa elit pariatur. Magna officia nulla consectetur est. Aliquip ullamco nostrud veniam ipsum in. Elit Lorem nostrud voluptate non officia enim aliquip ullamco qui irure ea aute ullamco. Culpa consectetur deserunt exercitation commodo culpa anim. Tempor excepteur excepteur aute irure proident.\r\n",
-      "twitter": "eu",
-      "github": "est",
-      "subtitle": "Senior Frontend at Protodyne",
-      "avatar": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/111863/profile/profile-512.jpg?6"
+			"name": "Pandit Gopalakrishna Hegde",
+			"bio": "\n Pt. Gopalkrishna Hegde started his musical journey at the age of 8, from his father Shri Govind Hegde Kalbhag and elder brother Pt. Parameshwar Hegde, the well-known classical vocalist. He trained under Shri S.M. Bhat Kattige and has had 15 years of training from Pandit Sheshagiri Hangal. He is a B-High grade artist of All India Radio. He has completed Sangeet Vidwath from Govt. of Karnataka also Sangeetha Rathna from Karnataka University Dharawad. He has performed more than 100 concerts in USA.\r\n",
+			"subtitle": "Singer",
+			"avatar": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/gopal.jpg"
+		},
+     {
+      "name": "Anantha Padmanabha Pathak",
+      "bio": "\n Known as Yakshaguru, AP Phatak is one of the highly travelled Yakshagana artists. He has visited 16 countries in the last 20 years (including UK, USA, Brazil etc) for Yakshagana performances. He was trained in Yakshagana Kendra Udupi in all aspects of Yakshagana. He has won several accolades from several institutions, including from Bharatheya Vidya Bhavana (UK), Indian embassy in Brazil and University of California Berkeley. He was a part of Yakshagana troupe that toured the world under the direction of Shri Sivaram Karanth, a Jnanapeetha Award winner and noted Yakshagana researcher. He has trained hundred of students in Yakshagana singing and instruments. He is now working as a Yakshagana teacher in Bangalore. He will be playing Chande in the current tour. \r\n",
+      "subtitle": "Chande",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/patak.jpg"
     },
-    {
-      "name": "Hyde Head",
-      "bio": "In exercitation dolor aute in eu. Non ut sit reprehenderit tempor non pariatur. Tempor consequat sint minim occaecat qui exercitation deserunt eiusmod occaecat cupidatat eiusmod. Minim proident ullamco consectetur mollit consectetur cupidatat nulla enim occaecat ut id. Amet irure proident qui do ex.\r\n",
-      "twitter": "nostrud",
-      "github": "elit",
-      "subtitle": "Backend Developer at Poochies",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRruKhAom5oaOsrnVP1WIm0Y2QjkrmBN28lmxYauGZ-OKEaVKUD"
+     {
+      "name": "Ganapati Bhat Thotimane",
+      "bio": "\n One of the most prominent and famous of dancers or actors of Yakshagana, Totimane Ganapathy Hegde has the capability to enthrall the audience in whichever roles he enacts. His graceful movements and wonderful facial expressions make him particularly well-known for his role of Krishna, Rama as well as Rakshasa roles. He is in very high demand and is booked for several months in advance for his performances. The winner of several awards and fellowship by Yakshagana academy, he has in depth knowledge of portrayal of characters within the framework of Yakshagana. He was a part of several professional troupes from childhood and is a main artist in \"Poornachandra Yakshagana Mandali\" \r\n",
+      "subtitle": "Yakshagana Artist",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/toti.jpg"
     },
-    {
-      "name": "Terry Hurst",
-      "bio": "Est culpa consequat non ut ad aliquip commodo commodo officia aliquip dolor nostrud enim est. Commodo velit occaecat laborum ad excepteur aute officia. Laboris nulla incididunt culpa magna dolor consequat id nulla est consectetur fugiat. Eu consequat in id veniam labore ipsum cupidatat consequat veniam ex enim occaecat id. Et qui aute amet non amet commodo labore incididunt Lorem.\r\n",
-      "twitter": "ea",
-      "github": "laborum",
-      "subtitle": "Founder at Proflex",
-      "avatar": "http://endlesstheme.com/Endless1.5.1/img/user2.jpg"
+     {
+      "name": "Sanjaya Beleyuru",
+      "bio": "\n Trained by the legendary Yakshagana Guru \"Hosthota Manjunatha Bhagavatha\" in Yakshagana dancing, makeup and acting, Sanjaya Beleyuru is known as one of the most promising young artists in Yakshagana. With his imposing physique and wide eyes, he is known for roles of Khalanayaka (villain). He is a part of a 300-year-old professional Yakshagana troupe in his own village. The effects he brings out using shades in facial makeup makes his roles very special and sometimes scary. He is also a costume maker and is in high demand for the Yakshagana costumes he designs and makes. He also runs a Yakshagana training school in his village, Beleyuru.\r\n",
+      "subtitle": "Yakshagana Artist",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/sanjaya.jpg"
     },
-    {
-      "name": "Bruce Pate",
-      "bio": "Laboris et voluptate cillum tempor laborum in irure aliqua mollit excepteur magna do fugiat. Ullamco tempor sunt exercitation incididunt anim aute veniam in mollit mollit exercitation minim proident. Sit adipisicing reprehenderit duis sunt officia culpa consectetur qui minim officia et aliquip et.\r\n",
-      "twitter": "Lorem",
-      "github": "sint",
-      "subtitle": "Founder at Lyria",
-      "avatar": "https://relayfm.s3.amazonaws.com/uploads/user/avatar/4/user_avatar_mykehurley_artwork.png"
+     {
+      "name": "Smt. Radha Desai",
+      "bio": "\n Smt. Radha Desai is a Hindusthani classical and light musical artist performing in India. She is an 'A' grade artist of All India radio and Doordarshan Dharwad. \r\n",
+      "subtitle": "Singer",
+      "avatar": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/radha.jpg"
     }
   ],
-  "events": [
-    {
-      "title": "8:00 am",
-      "data": [
-        { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
-        { "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
-      ]
-    },
-    {
-      "title": "9:15 am",
-      "data": [
-        { "name" : "Youth Symphony", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"Vinayak Hegde",
-          "description": "Symphony by youth of the Havyaka community"},
-        { "name" : "Havyaka Culture and Tradition", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"Param Bhat",
-          "description": "blurb"},
-        { "name" : "HAA 2019 Agenda", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"Raghu Kattinakere",
-          "description": "blurb"}
-      ]
-    }
-  ]
+	"events": [{
+			"title": "Location",
+			"data": [{
+					"name": "Convention Center",
+					"time": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
+					"place": " ",
+					"description": "",
+					"color": "#33E4F0"
+				},
+				{
+					"name": "Picnic",
+					"time": "Thomson Memorial Park",
+					"place": "Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A",
+					"description": " ",
+					"color": "#33E4F0"
+				}
+			]
+		},
+		{
+			"title": "Multi-day Events",
+			"data": [{
+					"name": "Youth Camp",
+					"time": "8:00 am 4th July 2019 - 5th July 2019 11:00 am",
+					"place": "Sringeri Community Center",
+					"description": "For pre-registered participants only, \n Address - 80 Brydon Drive, Etobicoke, Toronto",
+					"color": "#ff80b3"
+				},
+			
+				{
+					"name": "Stage Practice",
+					"time": "5:00 pm - 9:00 pm",
+					"place": "\n Convention Center",
+					"description": "Only for pre-requested programs. Please be on time.",
+					"color": "#ff80b3"
+				},
+				 {
+					"name": "Havyaka Youth Got Talent",
+					"time": "5th July 2019 9:00 pm",
+					"place": "\n Convention Center, Upstairs hall",
+					"description": "Preliminary on 5th July 2019,9 pm \n Finals on 6th July 2019, 3pm",
+					"color": "#ff80b3"
+				},
+				 {
+					"name": "Exhibition",
+					"time": "5th July - 6th July",
+					"place": "Convention Center",
+					"description": "Come and visit our exhibition center near dining hall",
+					"color": "#ff80b3"
+				}
+			]
+		},
+		{
+			"title": "Friday, 5th July 2019",
+			"data": [{
+					"name": "Breakfast",
+					"time": "8:30 am - 9:30 am",
+					"place": "Thomson Memorial Park",
+					"description": "Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ",
+					"color": "#e0b3ff"
+				},
+				
+				{
+					"name": "HAA Picnic",
+					"time": "9:00 am - 1:00 pm",
+					"place": "Thomson Memorial Park",
+					"description": "Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ",
+					"color": "#e0b3ff"
+				},
+				 {
+					"name": "Lunch",
+					"time": "12:00 pm - 1:00 pm",
+					"place": "Thomson Memorial Park",
+					"description": "Location - Thomson Memorial Park 1005 Brimley Rd Scarborough, ON M1P 3E9 Canada, Picnic Shelter: A ",
+					"color": "#e0b3ff"
+				},
+				
+				 
+				 {
+					"name": "Registration & Snacks",
+					"time": "3:00 pm - 3:45 pm",
+					"place": "Havya Kshethra, Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#e0b3ff"
+				},
+				 
+				{
+					"name": "Inaugural Programs",
+					"time": "4:00 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": "Please be seated in auditorium by 4pm"
+				},
+				 {
+					"name": "Naavu Havyakaru Meravanige - Procession",
+					"time": "4:00 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": "All Chapters"
+				},
+				{
+					"name": "Lighting of the Lamp",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Hon. Chandra Arya, MP \n Shridhara Bhat Kekkar, Havyaka Mahasabha Bengaluru \n Dr. Ramachandra Hosmane, US "
+				},
+				 {
+					"name": "Aarathi with Bhakti Geete",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Parvati Bhat \n Sharada Bhat \n Vinoda Upadhyaya \n Shwetha Bhat \n Shailaja Bhat "
+				},
+				 {
+					"name": "Veda Ghosha, Sabha Vandane",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Pt. Ramakrishna Bhat \n Rama Bhat Balike \n Param Bhat \n Ragu Kattinakere \n Vinayak Hegde \n Ganapathi Bhat \n Krishna Prasad Balike"
+				},
+		
+				{
+					"name": "Pushpanjali",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Choreographed by Rashmi Bhat & Ananya Balike \n Rashmi Bhat \n Ananya Balike \n Nidhi Hegde \n Amrutha Bhat \n Seema Hegde \n Poornima Bhat \n Manasa Alangar \n Kavya Hegde "
+				},
+				 {
+					"name": "National Anthems",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Canadian Anthem: Shivani Hegde \n US Anthem: Soham Kaje \n Indian Anthem: Ranjana Hegde"
+				},
+				 	{
+					"name": "Naavu Havyakaru Video",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Krishna Upadhyaya \n Shreeharsha Hegde \n Shrikant Hegde \n Nirmal Hegde"
+				},
+				 {
+					"name": "Havyakara Swaagatha",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " By Toronto Group \n Co-ordinated by Jyotsna Bhat, Aparna Bhat, Deepti Hegde \n Amrutha Bhat, Nidhi Hegde, Kaavya Hegde, Tanay Hegde, Shreyas Hegde, Samit Hegde, Puneet Bhat, Shrikant Hegde, Ram Bhat,Ganapathi Bhat, Sadashiva Bhat, Ragu Kattinakere, Manjunath Bhat, Nandakumar Hegde, Ananya Balike, Roshni Bhat, Shivani Hegde, Shreedhara Madhyasta, Nirmal Hegde, Shreyas Bhat, Amit Bhat, Vishal Bhat, Parvathi Bhat, Meenakshi Bhat, Asha Balike, Vaishali Pandit, Param Bhat, Sharada Bhat, Shivram Bhat, Shobha Bhat, Nagaraj Hegde, Shubha Hegde, Adhya Hegde, Yashas Bhat, Sahana Madhyastha, Reshma Bhat, Kavita Habbu, Sudha Hegde, Gowri Madhyastha, Vinayak Hegde, Ranjana Hegde, Maithri Hegde, Anupama Shastry, Poornima Bhat and Vineeta Habbu"
+				},
+				 {
+					"name": "President's Welcome",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Param Bhat, HAA President"
+				},
+				  {
+					"name": "Souvenir Release",
+					"time": "4:30 pm - 5:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Presentation: Ragu Kattinakere \n Release by: Hon. Chandra Arya, Member of Parliament, Canada \n Dr. Rama Bhat Khandige \n Prof. Kolari Subramanya Bhat \n Greetings by Sri Chandra Arya, MP"
+				},
+				 {
+					"name": "Semi Classical Dance",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Artists - \n Ananya Bhat \n Jyothi Ukkinadka"
+				},
+				  {
+					"name": "Kande Naa Parashivana",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Artists - \n Arati Bhagawat \n Sowmya Bonanthaya \n Anvi Bonanthaya \n Manasa Pandit \n Samitha Pandit \n Suhaani Pandit \n Kanchana Bhat \n Sumana Bhat \n Sumedha Hegde"
+				},
+				{
+					"name": "Bharatanatya",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Artist - Priya Hegde, Boston"
+				},
+				
+				{
+					"name": "Group Song",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Artists: \n Vijaya Bhat, Rama Bhat, Muralidhara Kaje, Sahana Kaje, Soham Kaje, Sakhyam Kaje, Pratibha Kote, Keshav Kote, Shaila Tamragauri, Ravi Tamragauri, Aparna Adkoli, Sudhir Adkoli, Sharada Gudehithlu, Krishnamurthy Gudehithlu, Leela Rao, Shankar Hegde, Laxmi Bhat, Ganapathi Bhat, Sujata Adkoli, Anil Adkoli and Nalini Belagaje"
+				},
+				 {
+					"name": "Group Dance",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Choreographer: Chitra Karki \n Artists: Chitra Karki, Subramanya Hegde, Vasanti Hegde, LG Hegde, Anil Padyana, Kanchana Padyana, Nitin Bhat, Madhu Nitin, Smita Karki and Annika Hegde"
+				},
+				
+				
+				{
+					"name": "Nee Kele Vadhuve",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Choreographer: Usha Kuloor \n Artists: \n Usha Kuloor \n Jyothi Ukkinadka \n Kanchana Hegde"
+				},
+				{
+					"name": "Kannada Song",
+					"time": "5:25 pm - 6:25 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": "Artist - Meghna Bhat"
+				},
+				 {
+					"name": "Karthaveeryarjuna Yakshagana",
+					"time": "6:30 pm - 8:30 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": " Himmela: \n Bagavatha: Anantha Hegde Dantalige & Ragu Kattinakere \n Maddale: Shankara Bhagavatha Yellapur \n Chande: Ragu Kattinakere \n\n Mummela: \n Karthaveerya: Thotimane Ganapati Hegde \n Vibheeshana: Naveen Hegde \n Ravana: Sanjaya Beleyooru \n Prahastha: Shreeharsha Hegde \n Sthreevesha: Shrkant Hegde & Ananya Balike \n Hasya: Raghav Kanchana"
+				},
+			
+				{
+					"name": "Havyaka Santharpane - Dinner",
+					"time": "8:30 pm - 9:30 pm",
+					"place": "Convention Center-Dining Hall",
+					"color": "#e0b3ff"
+				},
+				 {
+					"name": "Sangeeta Rasa Sanje",
+					"time": "9:30 pm - 11:30 pm",
+					"place": "Convention Center",
+					"color": "#e0b3ff",
+					"description": "An evening with light music \n Singers: Ratnamala Prakash, Pancham Halibandi \n Instrument Accompaniment - \n Tabla - Pt Gopalakrishna Hegde \n Keyboard - Krishna Murthy \n Drum Pad - Oomen Thomas \n Bass Guitar - Jacob Thomas"
+				},
+				{
+					"name": "Havyaka Youth Got Talent Show - Preliminary",
+					"time": "9:00 pm - 10:00 pm",
+					"place": "Convention Center - Upstairs Lobby",
+					"color": "#e0b3ff"
+				}
+				
+			]
+		},
+		{
+			"title": "Saturday, 6th July 2019",
+			"data": [
+				{
+					"name": "Gayathri Homa",
+					"time": "7:30 am - 8:45 am",
+					"place": "Convention Center",
+					"color": "#ffeb99"
+				},
+				{
+					"name": "Breakfast",
+					"time": "7:00 am - 8:00 am",
+					"place": "Convention Center",
+					"color": "#ffeb99"
+				},
+				{
+					"name": "Bhagavad Gita Chanting ",
+					"time": "8:50 am - 9:00 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Vineeta Habbu \n Sahana Madhyastha \n Kaavya Hegde \n Nidhi Hegde \n Tanay Hegde \n Nirmal Hegde \n Pranav Bhat"
+				},
+				{
+					"name": "Hindustani Vocal",
+					"time": "9:00 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists: Pranav Joshi & Ananya Joshi \n Accompanied by Vinayak Hegde & Shreedhara Madhyastha"
+				},
+				{
+					"name": "Bharatanatya",
+					"time": "9:00 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artist: Samit Pandit"
+				},
+				{
+					"name": "Dance",
+					"time": "9:00 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists - Shreya Hegde & Disha Hegde"
+				},
+				{
+					"name": "Carnatic Vocal",
+					"time": "9:00 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists: \n Sakhyam Kaje \n Soham Kaje \n Vasundhara Mahesh"
+				},
+				{
+					"name": "Bharatanatya",
+					"time": "9:00 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists - Aashika Bhat"
+				},
+				{
+					"name": "Unde International, Kids Skit ",
+					"time": "9:50 am - 10:05 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Directed by Jayashree Kanchana Balike \n Artists - \n Praneli Balike \n Rohil Balike \n Amogha Bhat \n Adeesha Bhat \n Avani Hegde \n Samvith Mahesh \n Soham Padyana"
+				},
+				{
+					"name": "Snacks",
+					"time": "10:00 am - 10:30 am",
+					"place": "Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#ffeb99"
+				},
+				{
+					"name": "Bhagavadgeethe Vachana & Hindustani Vocal",
+					"time": "10:05 am - 10:35 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists: \n Vidhushi Radha Desai \n Tabla: Pt. Gopalkrishna Hegde \n Harmonium: Vinayak Hegde"
+				},
+				{
+					"name": "Bharatanatya",
+					"time": "10:35 am - 11:10 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artist: Anish Sharma,Detroit "
+				},
+				{
+					"name": "Havi Hangama",
+					"time": "10:35 am - 11:10 am",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Artist: \n Ravi Balike \n Jayashree Kanchana Balike \n Praneil Balike \n Rohil Balike \n Bharath Hegde \n Avani Hegde \n Gopal Bhat \n Usha Kuloor Bhat \n Gopalakrishna Bhat \n Vani Hegde \n Ravi Hegde \n Kanchana Hegde \n Disha Hegde \n Shreya Hegde \n Jyothi Ukkinadka \n Venkatesh Pundyavana "
+				},
+				{
+					"name": "Plenary Session",
+					"time": "11:15 am - 12:15 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " HAA Objectives &Achievements: Param Bhat, HAA President \n HAA Finance: Bharath Hegde, Treasurer \n Keynote speakers \n Havyakaru nadedu banda daari: Shivu Bhat \n Growing up as a Havyaka in Canada: Nimish Hegde \n Passing on our culture to next generation Dr. Leela Rao Hegde \n Vaidika Sanmana, Recognitions & Awards \n Vote of Thanks: K.P. Balike, HAA Secretary"
+				},
+				{
+					"name": "Havyaka Bhojana",
+					"time": "12:15 pm - 1:30 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99"
+				},
+				{
+					"name": "Youth Symphony",
+					"time": "1:30 pm - 2:00 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Organized by: Vinayak Hegde \n Co-ordinated by: Meghana Bhat, Florida \n Artists: Sathvik Sai, Sujit Hegde, Sahana Madhyastha, Vineeta Habbu, Tanvi Kakunje, Maya Bhagwat, Rachna Sharma, Anisha Sharma, Bhakti Hegde, Soham Kaje, Sakhyam Kaje, Meghana Bhat, Krishan Hegde, Deepa Bhat, Samvith Mahesh, Aashika Bhat, Praneil Balike, Shreya Hegde, Shivani Hegde, Kaavya Hegde, Ananya Bhat and Ayush Pundyavana"
+				},
+				{
+					"name": "HAA Activities: Presentations",
+					"time": "2:00 pm - 3:00 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " HAA Krishi \n Vidyanidhi \n Parent Network \n Phase II \n CMCK \n Presentation by Youth Camp Delegates \n Havyaka Mahasabhe Bengaluru and it's acheivements, Shridhar Bhat Kekkar, VP, Havyaka Mahasabhe"
+				},
+				{
+					"name": "Havyaka Youth Got Talent",
+					"time": "3:00 pm - 3:20 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Junior Star Finalists: A , B \n Senior Star Fianlists: C , D "
+				},
+				{
+					"name": "Song",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Singer: Gopal Bhat \n Guitar: Anup Bhat \n Violin: Aashika Bhat "
+				},
+					
+				{
+					"name": "Bharatanatya",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists - Aadya Hebbar"
+				},
+				{
+					"name": "Bollywood Medley",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Artist: Annika Hegde, Sydney Australia"
+				},
+				
+				{
+					"name": "Jugalbandi",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Artists: \n Reshma Bhat\n Amrita Rao \n Tabla: Pt. Gopalakrishna Bhat \n Harmonium: Riya Bidaye"
+				},
+				{
+					"name": "Bollywood Dance",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists - Samita Pandit"
+				},
+				{
+					"name": "Fusion Strings",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists - \n Bhakthi Hegde\n Aashika Bhat\n Ananya Hegde"
+				},
+				{
+					"name": "Kathak Dance",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artist: Keerthana Bhat"
+				},
+				{
+					"name": "Group Song",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Artists: \n Nikhil Hegde, Mahesh Balike, Vasundhara Balike, Anisha Sharma, Rachna Sharma, Anjali Sharma, Tanvi Kakunje, Roopa Kakunje, Chidananda Kakunje"
+				},	
+				  {
+					"name": "Snacks",
+					"time": "3:30 pm - 4:30 pm",
+					"place": "Convention Center",
+					"description": "Enjoy tea/coffee and snacks at dining hall",
+					"color": "#ffeb99"
+				},
+				{
+					"name": "Havitaranga",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Artists:  Ananya Balike, Bhavana Hegde, Ranjana Hegde, Rashmi Bhat, Shobha Hegde, Sharada Hegde, Roshni Bhat, Anupama Shastry, Radha Bhat, Deepali Hegde, Seema Hegde, Sahana Adiga, Vani Bhagwat, Sahana Hegde, Sannidhi Hegde, Nanda Bhat, Shwetha Bhat, Nandakumar Hegde, Chandan Hegde, Rachana Rao, Deepti Hegde, Aparna Bhat, Jyotsna Bhat, Vani Hegde, Gayathri Hebbar, Shruthi Upadhyaya, Gangajyothi Raghavendra, Poornima Bhat, Maithri Hegde and Kalpana Bhat"
+				},
+			
+				{
+					"name": "Swaagatham to California",
+					"time": "3:20 pm - 5:45 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": "Bala Joshi, Jayashree Joshi, Gopal Bhat, Sujatha Bhat, Deepa Bhat, Daya Bhat, Mabal Bhat, Aruna Bhat, Venkat Bhat, Vidya Bhat,Krishna Upadhyay, Chaya Upadhyaya, Rachita Upadhyaya, Dilip Karki, Bindu Sundar, Anushka Karki, Murthy Hebbar, Usha Hebbar, Aadya Hebbar, Abhinav Hebbar, Shivaram Bhat, Meenakshi Bhat, Anu Bhat, Adarsh Bhat, Rithika Bhat, Rishabh Bhat, Prabhakar Bonanthaya, Saraswathi Bonanthaya, KP Mabal Bhat, Vasanthi Bhat, Kavitha Hegde, Shashi Hegde, Ishan Hegde, Reyansh Hegde, Reshma Bhat, Satish Bhat, Swara Bhat, Aditya Udupa, Amrita Rao, Tanmay Udupa and Rajani Noojibail \n \n Introduction of next President & Passing on the HAA bell "
+				},
+				{
+					"name": "Laya - Gana - Lasya",
+					"time": "5:50 pm - 5:55 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " Direction and Tabla Pt. GopalaKrishna Hegde \n  Vocal - Bhagavathike: Ananth Hegde Dantalige, Ragu Kattinakere \n Vocal- Hindustani Vinayak Hegde \n Maddale: Shankar Bhagwath Yellapura \n Harmonium: Raya Bidaye"
+				},
+		
+				{
+					"name": "Banquett Session",
+					"time": "7:30 pm - 11:00 pm",
+					"place": "Convention Center",
+					"color": "#ffeb99",
+					"description": " 7:30-8:00PM Snacks, Appetizers \n 8:00-9:00PM Entertainment-Meghna Bhat and Shivani Hegde, Anand Hegde \n Convention Committee Introduction \n Farewell \n 9:00-10:00PM Dinner \n 10:00-11:00PM DJ- Dance "
+				}
+
+			]
+		},
+		{
+			"title": "Sunday, 7th July 2019",
+			"data": [{
+					"name": "HAA General Body Meeting",
+					"time": "8:00 am - 10:00 am",
+					"place": "Convention Center",
+					"description": "HAA General Body Meeting \n Breakfast \n GBM Proceedings",
+					"color": "#33E4F0"
+				},
+				{
+					"name": "Toronto Sight Seeing Tour",
+					"time": "10:30 pm - 6:00 pm",
+					"place": "Toronto Site Seeing Tour, Optional Cost approx. $50/person Pre-sign up required",
+					"color": "#33E4F0"
+				},
+				{
+					"name": "Toronto Sight Seeing Tour",
+					"time": "10:30 pm - 6:00 pm",
+					"place": "Toronto Site Seeing Tour, Optional Cost approx. $50/person Pre-sign up required",
+					"color": "#33E4F0"
+				}
+			]
+		}
+	]
 }
