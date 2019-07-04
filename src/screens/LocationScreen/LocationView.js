@@ -10,7 +10,7 @@ class LocationView extends Component {
     this.state = {
       conference: {},
       markers: [{
-        "title": "Convention Hall - Venue",
+        "title": "Chinese Cultural Centre",
         "coordinates": {
           "latitude": 43.794994,
           "longitude": -79.233486
@@ -71,8 +71,8 @@ class LocationView extends Component {
         region={{
           latitude: location.latitude || 43.794994,
           longitude:location.longitude || -79.233486,
-          latitudeDelta: 0.00015,
-          longitudeDelta: 0.00015
+          latitudeDelta: 0.015,
+          longitudeDelta: 0.015
         }}
         loadingBackgroundColor={config.PRIMARY_BG_COLOR}
         loadingIndicatorColor={config.PRIMARY_TEXT_COLOR}>
