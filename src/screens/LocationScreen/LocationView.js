@@ -9,6 +9,34 @@ class LocationView extends Component {
     super(props);
     this.state = {
       conference: {},
+      markers: [{
+        "title": "Convention Hall - Venue",
+        "coordinates": {
+          "latitude": 43.794994,
+          "longitude": -79.233486
+        }
+      },
+      {
+          "title": "Picnic - Thomson Memorial Park",
+          "coordinates": {
+            "latitude": 43.75819310000001,
+            "longitude": -79.253826
+        }
+      },
+      {
+        "title": "Edwards Hotel",
+        "coordinates": {
+          "latitude": 43.84741809999996,
+          "longitude": -79.3649714
+      }
+    },
+    {
+      "title": "Centennial Place Residence",
+      "coordinates": {
+        "latitude": 43.78494840000004,
+        "longitude": -79.22999709999999
+    }
+  }]
     };
   }
 
@@ -35,29 +63,20 @@ class LocationView extends Component {
   }
 
   render() {
-    const location = (this.props.conference.location||{});
+    const location = (this.props.conference.location || {});
     return (
       <MapView
         style={{ flex: 1 }}
+        loadingEnabled={true}
         region={{
           latitude: location.latitude || 43.794994,
-          longitude: location.longitude || -79.233486,
-          latitudeDelta: 0.015,
-          longitudeDelta: 0.015,
-        }} loadingEnabled={true}
-          loadingBackgroundColor={config.PRIMARY_BG_COLOR}
-          loadingIndicatorColor={config.PRIMARY_TEXT_COLOR}>
-        {
-          location.latitude?
-              <MapView.Marker
-                  title={this.props.conference.name}
-                  description={location.address}
-                  coordinate={{
-                      latitude: Number(location.latitude),
-                      longitude: Number(location.longitude)
-                  }}
-                  ref={this.setMarkerRef}/>:null
-        }
+          longitude:location.longitude || -79.233486,
+          latitudeDelta: 0.00015,
+          longitudeDelta: 0.00015
+        }}
+        loadingBackgroundColor={config.PRIMARY_BG_COLOR}
+        loadingIndicatorColor={config.PRIMARY_TEXT_COLOR}>
+        {this.state.markers.map((marker, index) => (<MapView.Marker key={index} coordinate={marker.coordinates} title={marker.title} ref={this.setMarkerRef} />))}
       </MapView>
     );
   }

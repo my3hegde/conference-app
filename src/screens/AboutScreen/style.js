@@ -43,7 +43,7 @@ export default StyleSheet.create({
     flex: 1,
     maxHeight: 300,
     height: 300,
-    width
+    flexDirection: 'row'
   },
   link: {
     color: '#255899'

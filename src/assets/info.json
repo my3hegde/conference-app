@@ -4,7 +4,35 @@
 		"city": "Toronto, ON",
 		"address": "Chinese Cultural Centre, 5183 Sheppard Ave E, Scarborough, ON M1B 5Z5",
 		"latitude": 43.794994,
-		"longitude": -79.233486
+    "longitude": -79.233486,
+    "markers": [{
+      "title": "Convention Hall - Venue",
+      "coordinates": {
+        "latitude": 43.794994,
+        "longitude": -79.233486
+      }
+    },
+    {
+        "title": "Picnic - Thomson Memorial Park",
+        "coordinates": {
+          "latitude": 43.75819310000001,
+          "longitude": -79.253826
+      }
+    },
+    {
+      "title": "Edwards Hotel",
+      "coordinates": {
+        "latitude": 43.84741809999996,
+        "longitude": -79.3649714
+    }
+  },
+  {
+    "title": "Centennial Place Residence",
+    "coordinates": {
+      "latitude": 43.78494840000004,
+      "longitude": -79.22999709999999
+  }
+}]
 	},
 	"banner": "https://raw.githubusercontent.com/shruthikakwe/HAA/master/src/assets/haa.png",
 	"date": "July 5th-6th, 2019",

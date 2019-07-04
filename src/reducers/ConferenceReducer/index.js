@@ -1,4 +1,5 @@
 import * as types from './types';
+import * as config from './../../assets/info.json'
 
 const init = {
   loading: false,
@@ -15,7 +16,7 @@ const reducer = (state = init, action) => {
         ...state,
         loading: true,
         error: false,
-        conference: {},
+        conference: config,
         completed: false,
         detail: undefined
       };
@@ -32,7 +33,7 @@ const reducer = (state = init, action) => {
       return {
         ...state,
         loading: false,
-        conference: {},
+        conference: config,
         error: true,
         completed: true,
         detail: action.error

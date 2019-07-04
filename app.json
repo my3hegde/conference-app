@@ -4,7 +4,7 @@
     "name": "HAA",
     "icon": "https://raw.githubusercontent.com/my3hegde/conference-app/master/src/assets/haa.png",
     "slug": "HAA-App",
-    "version": "0.0.2",
+    "version": "2.0.0",
     "description": "HAA Convention 2019",
     "android": {
       "package": "com.toronto.haa",
@@ -24,7 +24,7 @@
         "com.sec.android.provider.badge.permission.READ",
         "com.sec.android.provider.badge.permission.WRITE",
         "com.sonyericsson.home.permission.BROADCAST_BADGE"
-      ],
+      ]
     },
     "ios": {
       "bundleIdentifier": "com.haa.convention"
